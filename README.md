@@ -130,6 +130,8 @@ Estime la probabilité qu'un document génère la requête.
 
 L'approche "LLM as a Judge" utilise un grand modèle de langage pour évaluer la pertinence des résultats.
 
+> 📖 **Utilisateurs Windows** : Consultez le guide détaillé [GUIDE_OLLAMA_WINDOWS.md](GUIDE_OLLAMA_WINDOWS.md)
+
 ### Fonctionnalités
 
 1. **Évaluation de pertinence** : Score de 0 à 5 pour chaque document retourné
